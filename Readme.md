@@ -1,12 +1,10 @@
 # Object Tracking Robot Using Raspberry Pi 4
 This file contains the *files and folder* list included with the .zip file and the installation instructions to sucessfully run the program without any package dependency error.
 ### Files and Folders:
-* Documents : This folder *contains* the project report document in .word and .pdf format.
-* Simulation : This folder *contains* the files,results and videos recorded during the simulation procedure ; contains three experiment results : One with single Goal Object ; Second with two Goal object; Third with three Goal object named *Simulation.m4v*.
 * Images : This folder contains the images used in the report.
 * Codes : This folder contains the individual chunks of code written to test different stages of the project.(written for python==3.6.4)
 * Robot : This folder contains the final code used for the simulation purpose named *Robot.py* .All the dependencies and installation files are present inside this directory.
-* Plagarism : This folder contains the plagarism report and log file.
+
 
 ## Running the Object Tracking Code :
 ### Step 1:
